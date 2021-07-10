@@ -1,0 +1,2 @@
+# Grocery-Delivery-App
+The number of users using online food delivery applications has been increasing in the past five years. Because of the current COVID-19 pandemic, the user number has grown from 66 million in 2015 in the US to 111 million in 2020. We decided to name our application “STORE TO DOOR”, because, the purpose of the application is to create a convenient platform, where the user can get groceries without leaving home. 
